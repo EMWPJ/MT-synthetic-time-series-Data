@@ -1,4 +1,4 @@
-One-dimensional models synthesize time series data.
+One-dimensional model synthesize time series data.
 Model parameters: three layers. The resistivity is 10 ohms, 100 ohms, 0.1 ohms. The layer thickness is 10km and 20km.
 
 File:
